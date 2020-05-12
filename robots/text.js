@@ -1,5 +1,5 @@
 const algorithmia = require('algorithmia')
-const algorithmiaApiKey = require('/home/pedro/Documents/Cursos/video-maker/video-maker/credentials/algorithmia.json').apiKey
+const algorithmiaApiKey = require('D:/video-maker/video-maker/credentials/algorithmia.json').apiKey
 const sentenceBoundaryDetection = require('sbd')
 
 const watsonApiKey = require('../credentials/watson-nlu.json').apikey
